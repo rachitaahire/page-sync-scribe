@@ -1,7 +1,7 @@
-import SeoAutoGen from "@/components/SeoAutoGen";
+import AutomatedCallSystem from "@/components/AutomatedCallSystem";
 
 const Index = () => {
-  return <SeoAutoGen />;
+  return <AutomatedCallSystem />;
 };
 
 export default Index;
